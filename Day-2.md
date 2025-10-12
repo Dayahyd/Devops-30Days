@@ -1,4 +1,4 @@
-# DAY-2 | MAVEN
+# DAY-2 | MAVEN  
 
 Maven is a powerful build automation and dependency management tool used primarily for Java projects, although it can be used for projects in other programming languages as well. It provides a comprehensive set of features to help manage the software development lifecycle and simplify the build process.
 
