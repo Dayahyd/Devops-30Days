@@ -1,5 +1,6 @@
 **YAML Files for Kubernetes:**
 
+
 YAML (YAML Ain't Markup Language) is a human-readable data serialization format commonly used for defining configurations in Kubernetes. YAML files are used to describe the desired state of Kubernetes objects, such as pods, services, deployments, and more. They follow a hierarchical structure with key-value pairs and indentation to define the properties and values of each object.
 
 Certainly! Here's an explanation of Deployment and Service YAML files for Kubernetes, along with examples, and the generated output in Markdown format for GitHub:
