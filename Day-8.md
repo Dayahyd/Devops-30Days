@@ -3,6 +3,7 @@ Docker is an open-source platform that allows you to automate the deployment, sc
 Sure! Here's the provided content converted into a GitHub README.md format:
 
 
+
 # Real-World Scenario: Development and Deployment of a Web Application using Docker
 
 In this scenario, a team of developers is working on a web application that consists of multiple microservices. They want to ensure consistent and reliable development, testing, and deployment processes across different environments.
