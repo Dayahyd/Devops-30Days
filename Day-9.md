@@ -2,6 +2,7 @@
 
 ## Introduction to Kubernetes
 
+
 Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. It provides a robust and flexible environment for running and managing container workloads.
 
 ## Key Concepts
