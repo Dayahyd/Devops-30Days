@@ -3,6 +3,7 @@
 
 
 
+
 ## Azure Pipelines with Classic Editor
 
 Azure Pipelines is a powerful continuous integration and delivery (CI/CD) platform provided by Microsoft Azure. The Classic Editor in Azure Pipelines allows you to define your build and release pipelines using a graphical interface. This guide will walk you through the steps to set up and configure Azure Pipelines using the Classic Editor.
